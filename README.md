@@ -1,4 +1,4 @@
-# -Secure-Hotel-Booking-System-Presto-
+# Secure Hotel Booking System Presto 
 cryptographic password hashing (SHA-256)
 
 # 🔐 Secure Hotel Booking System (Presto)
@@ -163,10 +163,12 @@ Universiti Tun Hussein Onn Malaysia (UTHM)
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
-**[Your Name]**  
-Computer Science (Information Security)  
-Interested in Secure Systems, Web Security & Digital Forensics  
+**Nurul Ummi Shahirah binti Mohd Saifuddin**  
+🔐 Focused on Secure Systems, Databases & Cybersecurity  
 
-📫 *Add your LinkedIn / Email here*
+📌 This project is part of my professional portfolio and demonstrates my readiness for **industry-level software and security roles**.
+
+---
+
